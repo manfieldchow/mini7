@@ -1,9 +1,10 @@
 {
     "name": "mini7",
     "version": "0.0.1",
-    "description": "6x7 WS2812B RGB LED matrix for BBC micro:bit",
+    "description": "6x7 WS2812B RGB LED matrix",
     "dependencies": {
-        "core": "*"
+        "core": "*",
+        "ws2812b": "github:microsoft/pxt-ws2812b#v0.1.2"
     },
     "files": [
         "main.blocks",
