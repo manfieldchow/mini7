@@ -1,6 +1,7 @@
 {
-    "name": "aaa",
-    "description": "",
+    "name": "mini7",
+    "version": "0.0.1",
+    "description": "6x7 WS2812B RGB LED matrix for BBC micro:bit",
     "dependencies": {
         "core": "*",
         "radio": "*",
@@ -21,5 +22,5 @@
     "supportedTargets": [
         "microbit"
     ],
-    "preferredEditor": "blocksprj"
+    "preferredEditor": "tsprj"
 }
