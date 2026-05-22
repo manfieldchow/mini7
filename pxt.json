@@ -3,9 +3,7 @@
     "version": "0.0.1",
     "description": "6x7 WS2812B RGB LED matrix for BBC micro:bit",
     "dependencies": {
-        "core": "*",
-        "radio": "*",
-        "microphone": "*"
+        "core": "*"
     },
     "files": [
         "main.blocks",
