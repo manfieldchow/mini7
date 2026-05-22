@@ -1,6 +1,6 @@
 {
     "name": "mini7",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "description": "6x7 WS2812B RGB LED matrix",
     "dependencies": {
         "core": "*",
