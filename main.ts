@@ -123,7 +123,7 @@ namespace minibeam {
      * Clear the buffer.
      */
     //% blockId=minibeam_clear
-    //% block="clear buffer2"
+    //% block="clear buffer"
     //% weight=60
     //% blockGap=16
     export function clearBuffer() {
